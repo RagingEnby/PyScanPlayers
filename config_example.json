@@ -1,0 +1,18 @@
+{
+  "hypixel_api_key": "HYPIXEL_API_KEY",
+  "ragingenby_api_key": "Generate this with @Skypixel#5772 on discord",
+  "webhook": {
+    "url": "WEBHOOK_URL",
+    "profile": {
+      "avatar": "https://github.com/RagingEnby/SkypixelRepo/blob/main/skypixel.png?raw=true",
+      "username": "Skypixel"
+    },
+    "embedColor": {
+      "added": 5635925,
+      "joined": 5635925,
+      "left": 16733525
+    },
+    "ping": "<@YOUR_DISCORD_ID>"
+  },
+  "players": []
+}
